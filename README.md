@@ -12,7 +12,7 @@
 - [Váriaveis](https://github.com/abraao69/Javascript-Anota-es/blob/main/variaveis.md) 
 - [Classes](#) 
 - [Funções](https://github.com/abraao69/Javascript-Anota-es/blob/main/funcoes/funcoes.md) 
-- [Objetos ](https://github.com/arthurspk/javascript/blob/main/objetos/objetos.md) 
+- [Objetos ](https://github.com/abraao69/Javascript-Anota-es/blob/main/objetos/objetos.md) 
 - [Classes](#) 
 - [Operadores](#) 
 - [Tipos de Dados](https://github.com/arthurspk/javascript/blob/main/tipos%20de%20dados/tipos-de-dados.md) 
