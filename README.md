@@ -20,7 +20,7 @@
 - [Arrow functions](#) 
 - [Funções regulares](#) 
 - [Número e Operadores](https://github.com/abraao69/Javascript-Anota-es/blob/main/numeros-e-operadores/numero-e-operadores.md) 
-- [Boolean e Condicionais](https://github.com/arthurspk/javascript/tree/main/boolean-e-condicionais) 
+- [Boolean e Condicionais](https://github.com/abraao69/Javascript-Anota-es/tree/main/boolean-e-condicionais) 
 - [Atribuições e Ternário](#) 
 - [Estruturas de Repetição](#) 
 - [Estrutururas condicionais](#) 
