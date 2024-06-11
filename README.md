@@ -1,6 +1,6 @@
 # 📒・ JavaScript:  Estudos.
 
-<img src="https://media.proglib.io/wp-uploads/2017/12/maxresdefault.jpg" width="1000" height="200" alt="JavaScript"> <br>
+<img src="https://media.proglib.io/wp-uploads/2017/12/maxresdefault.jpg" width="1000" height="400" alt="JavaScript"> <br>
 <hr>
 
 # 🎇 JavaScript: Guia Pessoal & Roadmap
