@@ -15,7 +15,7 @@
 - [Objetos ](https://github.com/abraao69/Javascript-Anota-es/blob/main/objetos/objetos.md) 
 - [Classes](#) 
 - [Operadores](#) 
-- [Tipos de Dados](https://github.com/arthurspk/javascript/blob/main/tipos%20de%20dados/tipos-de-dados.md) 
+- [Tipos de Dados](https://github.com/abraao69/Javascript-Anota-es/blob/main/tipos%20de%20dados/tipos-de-dados.md) 
 - [Arrays e loops](#) 
 - [Arrow functions](#) 
 - [Funções regulares](#) 
