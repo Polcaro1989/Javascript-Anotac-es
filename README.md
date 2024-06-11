@@ -60,7 +60,7 @@
 - [Eventos](#) 
 - [Navegação por Tabs](#) 
 - [Classes e Atributos](#) 
-- [Seleção de Elementos](https://github.com/arthurspk/javascript/blob/main/dom/dom.md) 
+- [Seleção de Elementos](https://github.com/abraao69/Javascript-Anota-es/blob/main/dom/dom.md) 
 - [Dimensões e Distâncias](#) 
 - [forEach e Arrow Function](#) 
 - [Traversing e Manipulação](#)  
