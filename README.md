@@ -1,6 +1,6 @@
 # 📒・ JavaScript: Anotações & Exercícios pessoais.
 
-<img src="img/js.jpg" alt="JavaScript"> <br>
+<img src="https://tse2.mm.bing.net/th?id=OIP.K3QlIjDsxcNPZuzWOB5VywHaCu&pid=Api&P=0&h=180" alt="JavaScript"> <br>
 <hr>
 
 # 🎇 JavaScript: Guia Pessoal & Roadmap
